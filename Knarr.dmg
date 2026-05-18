@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Knarr Browser - macOS</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #0f0f0f;
+    color: white;
+    text-align: center;
+    padding: 60px;
+  }
+  .card {
+    background: #1c1c1c;
+    padding: 30px;
+    border-radius: 15px;
+    display: inline-block;
+  }
+  a.button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 20px;
+    background: #fd79a8;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="card">
+  <img src="Knarr%20browser%20logo.png" width="120" style="border-radius:15px;" />
+
+  <h1>Knarr Browser</h1>
+  <h3>macOS Version</h3>
+
+  <p>Download the DMG for macOS.</p>
+
+  <a class="button" href="../../releases/latest/download/Knarr.dmg">
+    Download for macOS
+  </a>
+</div>
+
+</body>
+</html>
