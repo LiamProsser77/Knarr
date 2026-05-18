@@ -1,5 +1,3 @@
-<img width="300" height="300" alt="Knarr browser logo" src="https://github.com/user-attachments/assets/fa83ac01-023b-409c-8330-178f37851dfb" />
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
