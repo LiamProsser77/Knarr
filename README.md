@@ -10,7 +10,7 @@ A fast, modern, privacy-first browser built for global search, speed, and clean 
 
 <br>
 
-[Website](#) • [Downloads](#) • [License](LICENSE) • [Security](#)
+[Website](https://knarr.zite.so/) • [Downloads](../../releases) • [License](LICENSE) • [Security](#)
 
 <br><br>
 
@@ -58,6 +58,12 @@ Download the latest version from the Releases page.
 2. Open installer
 3. Install Knarr
 4. Launch browser
+
+---
+
+# Website
+
+https://knarr.zite.so/
 
 ---
 
